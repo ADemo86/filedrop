@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filedrop/static/css/main.64875f55.css",
+    "main.js": "/filedrop/static/js/main.59ef364d.js",
+    "index.html": "/filedrop/index.html",
+    "static/media/getFetch.cjs": "/filedrop/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.64875f55.css.map": "/filedrop/static/css/main.64875f55.css.map",
+    "main.59ef364d.js.map": "/filedrop/static/js/main.59ef364d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64875f55.css",
+    "static/js/main.59ef364d.js"
+  ]
+}

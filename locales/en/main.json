@@ -1,0 +1,75 @@
+{
+  "sections": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "abuse": "Report abuse / DMCA",
+    "tech": "Technical Information",
+    "github": "Source Code",
+    "twitter": "Follow me on Twitter",
+    "about": "About"
+  },
+  "incompatibleBrowser": {
+    "title": "Browser non compatibile",
+    "body": "Questo browser non può eseguire questa applicazione."
+  },
+  "emptyNetwork": {
+    "title": "Nessun peer in attesa.",
+    "body": "Apri questo indirizzo per connetterti."
+  },
+  "tile": "Clicca qui per iniziare il trasferimento.",
+  "state": {
+    "connecting": "Connessione...",
+    "loading": "Caricamento..."
+  },
+  "clipboard": {
+    "title": "Invio contenuti",
+    "body": "Invio: {{fileNames}}"
+  },
+  "chat": {
+    "showMore": "Altro...",
+    "message": "Messaggio"
+  },
+  "emptyChat": {
+    "title": "La chat è vuota.",
+    "body": "Inizia la chat con chi è connesso."
+  },
+  "connect": "Apri questa pagina su un altro dispositivo:",
+  "otherNetworks": "Altri network locali",
+  "you": "Tu",
+  "yourTile": {
+    "title": "Questo è il tuo box.",
+    "body": "Sotto vedrai altre box come questo. Trascina e rilascia i tuoi file o fai clic su di essi per avviare un trasferimento di file."
+  },
+  "transfers": {
+    "title": "Trasferimenti",
+    "actions": {
+      "acceptAll": "Accetta tutti",
+      "rejectAll": "Rifiuta tutti",
+      "cancelAll": "Ferma tutti",
+      "dismissAll": "Annulla tutti"
+    },
+    "icon": {
+      "state": "Stato invio: {{state}}",
+      "preview": "Anteprima: {{fileName}}"
+    }
+  },
+  "fileType": {
+    "unknown": "",
+    "text": "Text file",
+    "archive": "Archive",
+    "image": "Image",
+    "video": "Video",
+    "audio": "Audio",
+    "binary": "Binary file"
+  },
+  "transferState": {
+    "incoming": "In ingresso",
+    "outgoing": "In uscita",
+    "connecting": "Connessione...",
+    "connected": "Connesso",
+    "inProgress": "Avanzamento...",
+    "complete": "Completo",
+    "failed": "Errore :("
+  },
+  "yourName": "Il tuo nome"
+}
